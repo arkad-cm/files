@@ -1,2 +1,2 @@
-sku_id,catalogues,product_status
-CM00151335,DELHI_NCR,OUT OF STOCK
+sku_id,catalogues,is_primary_variant,product_status
+CM00151335,DELHI_NCR,false,Active
