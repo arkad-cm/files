@@ -1,2 +1,2 @@
-sku_id,catalogues,variant_identifier
-CM00115374,DELHI_NCR,Gopal Chakki Fresh Atta
+sku_id,catalogues,product_status,is_primary_variant
+CM00115378,DELHI_NCR,Active,true
