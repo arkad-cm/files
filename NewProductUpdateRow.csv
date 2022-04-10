@@ -1,4 +1,2 @@
-sku_id,catalogues,product_status
-CM00115391,DELHI_NCR,Active
-CM00115392,DELHI_NCR,Active
-CM00115393,DELHI_NCR,Active
+sku_id,catalogues,variant_identifier
+CM00115391,DELHI_NCR,Updated Product
