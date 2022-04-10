@@ -1,2 +1,2 @@
-sku_id,catalogues,product_status
-CM00115392,DELHI_NCR,Inactive
+sku_id,catalogues,is_primary_variant
+CM00115393,DELHI_NCR,false
